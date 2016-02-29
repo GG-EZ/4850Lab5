@@ -1,6 +1,6 @@
 Newest at top
 
-
+2/28/2016 4:16 pm finished processing the rating
 2/28/2016 3:02pm modified jrating.jquery by deleting unecessary code
 2/28/2016 3:02pm Configured caboose for ratings
 2/18/2016 2:32pm Added jRating scripts to project                 Incomplete step 3, configured caboose rating function 
